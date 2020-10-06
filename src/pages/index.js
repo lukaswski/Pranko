@@ -5,7 +5,7 @@ import {
   Navbar, Col, Nav, Button,
 } from 'react-bootstrap';
 import BrandName from './BrandName';
-import { SofaCover, SectionContainer, StyledButton } from './styled';
+import { SofaCover, SectionContainer, StyledButton } from '../content/styled';
 import ServicesCards from './ServicesCards';
 import Prices from './Prices';
 import Prepare from './Prepare';

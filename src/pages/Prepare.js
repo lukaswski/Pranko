@@ -1,7 +1,7 @@
 import React from 'react';
 import { Button } from 'react-bootstrap';
 import { whatPrepare, callToAction } from '../content/content';
-import { StyledJumbotron } from './styled';
+import { StyledJumbotron } from '../content/styled';
 import { PHONE_NUMBER } from '../content/consts';
 
 const { content, title } = whatPrepare;

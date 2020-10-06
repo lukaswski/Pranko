@@ -1,7 +1,7 @@
 import React from 'react';
 import { Alert } from 'react-bootstrap';
 import { servicesPrices, carsServicesPrice } from '../content/content';
-import { StyledTable } from './styled';
+import { StyledTable } from '../content/styled';
 
 const Prices = () => (
   <>

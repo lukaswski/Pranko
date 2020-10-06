@@ -1,6 +1,6 @@
 import React from 'react';
 import { Button, Col, Row } from 'react-bootstrap';
-import { StyledJumbotron, DesignerContainer } from './styled';
+import { StyledJumbotron, DesignerContainer } from '../content/styled';
 import { PHONE_NUMBER } from '../content/consts';
 import { facebookIcon, githubIcon, mailIcon } from '../content/content';
 

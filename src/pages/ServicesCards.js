@@ -2,7 +2,7 @@ import React from 'react';
 import {
   Card, Col, CardDeck,
 } from 'react-bootstrap';
-import { StyledCard, StyledImg, StyledJumbotron } from './styled';
+import { StyledCard, StyledImg, StyledJumbotron } from '../content/styled';
 import { services, extractionWashText } from '../content/content';
 
 const { title, content, howItWork } = extractionWashText;

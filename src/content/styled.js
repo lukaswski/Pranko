@@ -1,4 +1,3 @@
-/* eslint-disable import/prefer-default-export */
 import styled from 'styled-components';
 import {
   Container, Card, Table, Jumbotron, Button,
@@ -163,4 +162,5 @@ export const StyledButton = styled(Button)`
     @media(max-width: 768px){
       left: calc(50% - 22.5px);
       bottom: 5%;
-    }`;
+    }`
+;
