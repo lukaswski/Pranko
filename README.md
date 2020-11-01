@@ -3,5 +3,5 @@
   - styled components 
   - react-bootstrap
 
-### hosting na nelify.com
+### hosting nelify.com
 https://hopeful-curran-a2c8b8.netlify.app/
